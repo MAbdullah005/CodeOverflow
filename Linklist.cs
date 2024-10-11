@@ -6,18 +6,18 @@ using System.Security.Cryptography;
 
 namespace Linklistapplication
 {
-    // 1 add fist
-    // 2 add last 
-    // 3 delete fist
-    // 4 delete last
-    // 5 contain
-    // 6 index of
-    // 7 size
-    // 8 reverse
-    // 9 find midle 
-    // 10 addloop in linklist 
-    // 11 find loop in linklist
-    // 12 remove loop in link list (not tested)
+     //1 add fist
+     //2 add last
+     //3 delete fist
+     //4 delete last
+     //5 contain
+     //6 index of
+     //7 size
+     //8 reverse
+     //9 find midle
+     //10 addloop in linklist 
+     //11 find loop in linklist
+     //12 remove loop in link list(not tested)
     public class Linklist
     {
         public class Node
@@ -275,7 +275,7 @@ namespace Linklistapplication
             }
         }
     }
-    public class Program
+    public class Linklist
     {
         static void Main()
         {
